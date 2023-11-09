@@ -14,6 +14,6 @@
 
    
 <p align="left"> <a href="https://www.java.com" target="_blank"> 
- <a href="https://www.w3schools.com/cs/index.php target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="40" height="40"/> </a>    
+ <a href="https://www.w3schools.com/cs/cs_intro.php target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="40" height="40"/> </a>    
  <a href="https://www.w3schools.com/js/default.asp target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" width="40" height="40"/> </a>    
 
