@@ -17,3 +17,5 @@
  <a href="https://dotnet.microsoft.com/en-us/learntocode" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="40" height="40"/> </a>    
  <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" width="40" height="40"/> </a>    
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"> <img src="https://www.cnet.com/a/img/resize/39e05dbff495f3ecbf044772f45baf993b92890a/hub/2011/01/18/6ee1f979-f0f7-11e2-8c7c-d4ae52e62bcc/HTML5_Logo_550px.png?auto=webp&fit=crop&height=900&width=1200" alt="Html" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/w3css/defaulT.asp" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="python" width="40" height="40"/> </a> 
