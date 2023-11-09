@@ -7,7 +7,7 @@
 
 - 🔭 I’m looking to collaborate on new projects
 - 🌱 I’m currently 1st year Computer Science student
-- ⚡ I read Philosophy and i have a broken humor
+- ⚡ I read Philosophy and I have a broken humor
 - 💬 Ask me about programming concepts
   
 <h3 align="left">Languages and Tools: </h3>
