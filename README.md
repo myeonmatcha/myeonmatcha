@@ -6,7 +6,7 @@
 <img align="right" src="https://raw.githubusercontent.com/cadornajansen/cadornajansen/main/Code%20typing-amico%20(1).png" alt="mj" height="400" />
 
 - 🔭 I’m looking to collaborate on new projects
-- 🌱 I’m currently 1st year Computer Science student
+- 🌱 I’m currently 2nd year Computer Science student
 - ⚡ I read Philosophy and I have a broken humor
 - 💬 Ask me about programming concepts
   
